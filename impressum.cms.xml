@@ -1,25 +1,21 @@
 <cms path="/impressum" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
-	<tag name="menu" value=" Impressum" />
-	<tag name="menu-icon" value="icon-globe icon-white" />
-	<tag name="order" value="15" />
-	<content>
-		<lift:surround with="default" at="content" quotes="true">
-			<head>
-				<title>Minerva KundenRechte :: Impressum</title>
-			</head>
+<tag name="menu" value=" Impressum" />
+<tag name="menu-icon" value="icon-globe icon-white" />
+<tag name="order" value="15" />
 
-			<div class="row-fluid">
-				<div class="span12">
+<content>
+<lift:surround with="default" at="content" quotes="true">
+			
+<head>
+<title>Minerva KundenRechte :: Impressum</title>
+</head>
 
-					<div class="row-fluid">
-						<div class="span12">
-                            <div class="page-header">
-						   	<h2>
-						   	   <span title="Wir stoppen die Schröpfung langjährig privat Krankenversicherter. Fachkompetent. Preiswert." id="lift-tt">
-						    	Impressum – Minerva KundenRechte GmbH
-						    	</span>
-						   	</h2>
-						   	</div>
+<div class="page-header">
+  <h2>
+  <span title="Wir stoppen die Schröpfung langjährig privat Krankenversicherter. Fachkompetent. Preiswert." id="lift-tt">
+Impressum – Minerva KundenRechte GmbH</span>
+</h2>
+</div>
 						   	
 <div class="row-fluid">
   <div class="span12">
