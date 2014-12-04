@@ -1,7 +1,9 @@
 # Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
 Drer Webseiten sollten Sie kennen:
 
-### Hier meine Beiträge:
+### Hintergründe zum Tarifwechsel
+### Finanztip hat Tarifwechsel-Berater verglichen und kommt zu einer klaren Empfehlung
+### Der Berater mit der nachvollziehbar größten Expertise
 
 <ul class="posts" style="list-style: none" data-lift="blog.posts?max=15">
     <li data-post="item"><h2><a data-post="link" href="#">Blog Post</a></h2>
