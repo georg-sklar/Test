@@ -2,7 +2,7 @@
 
 Drei Webseiten sollten Sie kennen:
 
-## Hintergründe zum Tarifwechsel: journalistisch angenehm lesbar aufbereitet
+## <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel">Hintergründe zum Tarifwechsel:</a> journalistisch angenehm lesbar aufbereitet
 <ul>
   <li><a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel/">brand eins</a>
   <li><a href="http://www.minerva-kundenrechte.de/presse/SZ20130208_PKV_Tarifwechsel.pdf">Süddeutsche Zeitung</a>
