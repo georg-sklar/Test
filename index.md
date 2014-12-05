@@ -10,6 +10,8 @@ Drei Webseiten sollten Sie kennen:
   <li><a href="http://www.handelsblatt.com/finanzen/vorsorge-versicherung/nachrichten/privatpatienten-vorsicht-neue-provisionsjaeger-in-der-pkv-seite-all/9248432-all.html?ref=TelegramGS">Handelsblatt</a>
   <li><a href="http://www.focus.de/finanzen/versicherungen/krankenversicherung/tid-31715/tarifwechsel-in-der-privaten-krankenversicherung-beitragswahnsinn-in-der-pkv-so-kommen-versicherte-in-guenstigere-tarife_aid_1007745.html?ref=TelegramGS">FOCUS Online</a>
 </ul>
+Lesen Sie selber unter diesem <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS" target="_blank">Link</a>.
+
 ### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
 <ul>
   <li>Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
@@ -17,6 +19,7 @@ Drei Webseiten sollten Sie kennen:
   <li>Beim Tarifwechsel brauchen Sie die Hilfe eines Versicherungsberaters.
   <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Minerva KundenRechte</a>.
 </ul>
+Lesen Sie selber unter diesem <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Link</a>.
 
 ### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
 <ul>
@@ -26,6 +29,7 @@ Drei Webseiten sollten Sie kennen:
   <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.
   <li>Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.
 </ul>
+Erfahren Sie mehr unter diesem <a href="http://www.minerva-kundenrechte.de/unsere-leistung/kompetenz-service?ref=TelegramGS" target="_blank">Link</a>.
 
 Wenn Sie privat krankenversichert sind und Ihr Beitrag ist stark gestiegen, handeln Sie besser bald. 
 Ihr PKV-Versicherer wünscht allerdings, dass Sie nicht handeln und Beitrag über Beitrag weiter überweisen.
