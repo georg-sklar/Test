@@ -10,11 +10,12 @@ Drei Webseiten sollten Sie kennen:
   <li><a href="http://www.handelsblatt.com/finanzen/vorsorge-versicherung/nachrichten/privatpatienten-vorsicht-neue-provisionsjaeger-in-der-pkv-seite-all/9248432-all.html?ref=TelegramGS">Handelsblatt</a>
   <li><a href="http://www.focus.de/finanzen/versicherungen/krankenversicherung/tid-31715/tarifwechsel-in-der-privaten-krankenversicherung-beitragswahnsinn-in-der-pkv-so-kommen-versicherte-in-guenstigere-tarife_aid_1007745.html?ref=TelegramGS">FOCUS Online</a>
 </ul>
-### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung
+### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
 <ul>
-  <li>
-  <li>
-  <li>
+  <li>Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
+  <li>Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
+  <li>Beim Tarifwechsel brauchen Sie die Hilfe eines Versicherungsberaters.
+  <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater Minerva.
 </ul>
 
 ### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise
