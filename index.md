@@ -24,7 +24,7 @@ Lesen Sie selber unter diesem <a href="http://minerva-kundenrechte.de/finanztip?
 #### 3. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
 <ul>
   <li>Der este <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
-  <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
+  <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
   <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker: 
     <ul>
       <li>sie wissen wie, wann und warum neue Tarife eingeführt werden;
