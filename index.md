@@ -18,11 +18,13 @@ Drei Webseiten sollten Sie kennen:
   <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater Minerva.
 </ul>
 
-### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise
+### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de">www.minerva-kundenrechte.de</a>
 <ul>
-  <li>
-  <li>
-  <li>
+  <li>Der este aktuarielle Rechtsberater für PKV-Kunden in Deutschland.
+  <li>Notwendige aktuarielle Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
+  <li>Weder Makler noch Ex-Makler.
+  <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.
+  <li>Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.
 </ul>
 
 Wenn Sie privat krankenversichert sind und Ihr Beitrag ist stark gestiegen, handeln Sie besser bald. 
