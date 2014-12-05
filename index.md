@@ -28,7 +28,7 @@ Lesen Sie selber unter diesem <a href="http://minerva-kundenrechte.de/finanztip?
   <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker: 
     <ul>
       <li>sie wissen wie, wann und warum neue Tarife eingeführt werden;
-      <li>sie wissen wie und warum Tarife kalkuliert und angepasst werden;
+      <li>sie wissen wie Tarife kalkuliert und warum und angepasst werden;
       <li>sie wissen welcher Tarif ausgerechnet für Sie besser ist und auch warum dies so ist.
     </ul>
   <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.
