@@ -25,7 +25,12 @@ Lesen Sie selber unter diesem <a href="http://minerva-kundenrechte.de/finanztip?
 <ul>
   <li>Der este <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
-  <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker: sie wissen wie Tarife kalkuliert und angepasst werden; sie wissen nicht nur welcher Tarif ausgerechnet für Sie besser ist, sondern auch warum dies so ist.
+  <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker: 
+    <ul>
+      <li>sie wissen wie, wann und warum neue Tarife eingeführt werden;
+      <li>sie wissen wie und warum Tarife kalkuliert und angepasst werden;
+      <li>sie wissen welcher Tarif ausgerechnet für Sie besser ist und auch warum dies so ist.
+    </ul>
   <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.
   <li>Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.
 </ul>
