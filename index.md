@@ -15,7 +15,7 @@ Drei Webseiten sollten Sie kennen:
   <li>Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
   <li>Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
   <li>Beim Tarifwechsel brauchen Sie die Hilfe eines Versicherungsberaters.
-  <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater Minerva.
+  <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Minerva KundenRechte</a>.
 </ul>
 
 ### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
