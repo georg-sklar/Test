@@ -20,8 +20,8 @@ Drei Webseiten sollten Sie kennen:
 
 ### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
 <ul>
-  <li>Der este aktuarielle Rechtsberater für PKV-Kunden in Deutschland.
-  <li>Notwendige aktuarielle Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
+  <li>Der este <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
+  <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS">aktuarielle</a> Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
   <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker: sie wissen wie Tarife kalkuliert und angepasst werden; sie wissen nicht nur welcher Tarif ausgerechnet für Sie besser ist, sondern auch warum dies so ist.
   <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.
   <li>Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.
