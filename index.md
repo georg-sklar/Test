@@ -2,7 +2,7 @@
 
 Drei Webseiten sollten Sie kennen:
 
-#### <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
+#### 1. <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
 <ul>
   <li><a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel/?ref=TelegramGS" target="_blank">brand eins</a>
   <li><a href="http://www.minerva-kundenrechte.de/presse/SZ20130208_PKV_Tarifwechsel.pdf?ref=TelegramGS" target="_blank">Süddeutsche Zeitung</a>
@@ -12,7 +12,7 @@ Drei Webseiten sollten Sie kennen:
 </ul>
 Lesen Sie selber unter diesem <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS" target="_blank">Link</a>.
 
-#### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
+#### 2. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
 <ul>
   <li>Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
   <li>Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
@@ -21,7 +21,7 @@ Lesen Sie selber unter diesem <a href="http://www.minerva-kundenrechte.de/das-un
 </ul>
 Lesen Sie selber unter diesem <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Link</a>.
 
-#### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
+#### 3. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
 <ul>
   <li>Der este <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
