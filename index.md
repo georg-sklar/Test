@@ -22,7 +22,7 @@ Drei Webseiten sollten Sie kennen:
 <ul>
   <li>Der este aktuarielle Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige aktuarielle Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
-  <li>Weder Makler noch Ex-Makler.
+  <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker: sie wissen wie Tarife kalkuliert und angepasst werden; sie wissen nicht nur welcher Tarif ausgerechnet für Sie besser ist, sondern auch warum dies so ist.
   <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.
   <li>Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.
 </ul>
