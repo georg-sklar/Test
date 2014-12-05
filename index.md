@@ -2,7 +2,7 @@
 
 Drei Webseiten sollten Sie kennen:
 
-#### <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS">Hintergründe</a> zum Tarifwechsel: journalistisch angenehm lesbar aufbereitet
+#### <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
 <ul>
   <li><a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel/?ref=TelegramGS">brand eins</a>
   <li><a href="http://www.minerva-kundenrechte.de/presse/SZ20130208_PKV_Tarifwechsel.pdf?ref=TelegramGS">Süddeutsche Zeitung</a>
