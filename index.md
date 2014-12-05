@@ -18,7 +18,7 @@ Drei Webseiten sollten Sie kennen:
   <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater Minerva.
 </ul>
 
-### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de">www.minerva-kundenrechte.de</a>
+### <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
 <ul>
   <li>Der este aktuarielle Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige aktuarielle Expertise und mehr als 25 Jahre Insider-Erfahrung im Führungsteam.
