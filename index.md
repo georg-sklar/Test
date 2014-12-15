@@ -1,1 +1,1 @@
-#### Hallo, <br>ich bin Gerog Sklar, <br>und hier wird getestet.
+#### Hallo, <br>ich bin Georg Sklar, <br>und hier wird getestet.
